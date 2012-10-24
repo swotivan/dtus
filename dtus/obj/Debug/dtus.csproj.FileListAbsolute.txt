@@ -6,3 +6,11 @@ D:\MyProject\DTUS\Source\dtus\dtus\bin\Newtonsoft.Json.xml
 D:\MyProject\DTUS\Source\dtus\dtus\obj\Debug\ResolveAssemblyReference.cache
 D:\MyProject\DTUS\Source\dtus\dtus\obj\Debug\dtus.dll
 D:\MyProject\DTUS\Source\dtus\dtus\obj\Debug\dtus.pdb
+D:\MyProject\DTUS\Source\Derek\dtus\dtus\bin\dtus.dll
+D:\MyProject\DTUS\Source\Derek\dtus\dtus\bin\dtus.pdb
+D:\MyProject\DTUS\Source\Derek\dtus\dtus\bin\Newtonsoft.Json.dll
+D:\MyProject\DTUS\Source\Derek\dtus\dtus\bin\Newtonsoft.Json.pdb
+D:\MyProject\DTUS\Source\Derek\dtus\dtus\bin\Newtonsoft.Json.xml
+D:\MyProject\DTUS\Source\Derek\dtus\dtus\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProject\DTUS\Source\Derek\dtus\dtus\obj\Debug\dtus.dll
+D:\MyProject\DTUS\Source\Derek\dtus\dtus\obj\Debug\dtus.pdb
