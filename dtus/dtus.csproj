@@ -1404,6 +1404,14 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="classes\core\dao\BaseDAO.cs" />
+    <Compile Include="classes\core\dao\DAOFactory.cs" />
+    <Compile Include="classes\core\dao\SequenceDAO.cs" />
+    <Compile Include="classes\core\model\DTUFile.cs" />
+    <Compile Include="classes\core\model\DTUUser.cs" />
+    <Compile Include="classes\core\model\Section.cs" />
+    <Compile Include="classes\core\model\Sequence.cs" />
+    <Compile Include="classes\webcontrol\LoginControl.cs" />
     <Compile Include="extjs.ascx.cs">
       <DependentUpon>extjs.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -1594,6 +1602,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="classes\service\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v9.0\WebApplications\Microsoft.WebApplication.targets" />
